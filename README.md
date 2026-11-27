@@ -78,3 +78,9 @@ Tweaks worth knowing:
 
 - **How hard acceleration hits:** `acc / 8` in `control()`. Lower the 8 to make it react more.
 - **When instruments are allowed to change:** they join or leave only on half-bars (steps 0 and 8), and must drop 0.06 below their energy point before leaving. That's the `eBar` logic in `block()`.
+
+---
+
+## License
+
+MIT © RoaringNoodle. Free to use, change and share; see [LICENSE](LICENSE).
