@@ -10,6 +10,10 @@ Music that follows your driving. GPS speed sets the tempo, brightness and which 
 
 Needs Android 8.0 or newer.
 
+## ⬇ Download
+
+**[Download DriveSequencer.apk](https://github.com/RoaringNoodle/DynamicMusicSequencer/releases/latest/download/DriveSequencer.apk)** (the newest build), then open it on your phone. See *Installing on the phone* below.
+
 ---
 
 ## Getting the APK (the file you install on the phone)
